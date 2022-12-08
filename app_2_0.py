@@ -9,7 +9,7 @@ from gensim.models import Word2Vec
 #import matplotlib.pyplot as plt
 
 import pickle
-from sklearn.externals import joblib
+import joblib
 
 from google_images_search import GoogleImagesSearch
 import os
