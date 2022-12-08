@@ -10,4 +10,4 @@ google_images_download
 pillow
 python-resize-image
 joblib
-gensim
+gensim==3.8.3
