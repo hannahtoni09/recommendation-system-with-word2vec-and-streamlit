@@ -29,7 +29,7 @@ import time
 
 st.title('Recommendation system app')
 
-data = ('df2.csv')
+data = ('df.csv')
 "THE DATABASE"
 
 @st.cache
